@@ -1,2 +1,2 @@
 # Password-Manager-GUI-part2
-A secure and efficient password manager built using Python and Tkinter. It allows users to generate strong passwords, store credentials in a JSON file, and retrieve them easily. The program includes exception handling to prevent crashes due to missing files or invalid data. The UI ensures a smooth user experience with easy password generation and saving functionality. 🚀🔐
+A secure and efficient password manager built using Python and Tkinter. It allows users to generate strong passwords, store credentials in a JSON file, and retrieve them easily. The program includes exception handling to prevent crashes due to missing files or invalid data. The UI ensures a smooth user experience with easy password generation and saving functionality. 
